@@ -34,7 +34,7 @@
 | 4 | 拥抱开源协议，但不切换：接入 OpenTelemetry 的代价清单 | [初稿](https://github.com/huangwenbang110-droid/articles/blob/main/04-接入OpenTelemetry的代价清单.md) |
 | 5 | 双协议并行 | 待写 |
 | 6 | 日均数十 TB：规模带来的工程问题 | 待写 |
-| 7 | AIOps 探索 | 待写 |
+| 7 | AIOps 探索 | [初稿](https://github.com/huangwenbang110-droid/articles/blob/main/07-AIOps探索.md) |
 | 8 | AI 可观测落地 | 待写 |
 
 每篇写两层：这一代**怎么实现的**（方案、选型、数据模型），以及后来**为什么要换掉**。
