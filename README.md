@@ -28,14 +28,16 @@
 
 | # | 主题 | 状态 |
 |---|---|---|
-| 1 | 平台、日志、指标 | [已发布](https://github.com/huangwenbang110-droid/articles/blob/main/01-第一代监控平台.md) |
-| 2 | 从 SDK 到 Agent | 写作中 |
-| 3 | Agent 架构落地 | 待写 |
-| 4 | 拥抱开源协议，但不切换：接入 OpenTelemetry 的代价清单 | [初稿](https://github.com/huangwenbang110-droid/articles/blob/main/04-接入OpenTelemetry的代价清单.md) |
-| 5 | 双协议并行 | 待写 |
-| 6 | 日均数十 TB：规模带来的工程问题 | 待写 |
-| 7 | AIOps 探索 | [初稿](https://github.com/huangwenbang110-droid/articles/blob/main/07-AIOps探索.md) |
-| 8 | AI 可观测落地 | 待写 |
+| 1 | [平台、日志、指标](https://huangwenbang110-droid.github.io/articles/platform-logs-metrics.html) | 已发布 |
+| 2 | [从 SDK 到 Agent](https://huangwenbang110-droid.github.io/articles/sdk-to-agent.html) | 初稿 |
+| 3 | [Agent 架构落地](https://huangwenbang110-droid.github.io/articles/agent-architecture.html) | 初稿 |
+| 4 | [拥抱开源协议，但不切换：接入 OpenTelemetry 的代价清单](https://huangwenbang110-droid.github.io/articles/opentelemetry-without-switching.html) | 初稿 |
+| 5 | [双协议并行](https://huangwenbang110-droid.github.io/articles/dual-protocol.html) | 初稿 |
+| 6 | [日均数十 TB：规模带来的工程问题](https://huangwenbang110-droid.github.io/articles/tens-of-tb-per-day.html) | 初稿 |
+| 7 | [AIOps 探索](https://huangwenbang110-droid.github.io/articles/aiops-exploration.html) | 初稿 |
+| 8 | [AI 可观测落地](https://huangwenbang110-droid.github.io/articles/ai-observability-in-practice.html) | 初稿 |
+
+八篇都在个人站点上直接可读，不用跳转。源文件在 [articles](https://github.com/huangwenbang110-droid/articles) 仓库。
 
 每篇写两层：这一代**怎么实现的**（方案、选型、数据模型），以及后来**为什么要换掉**。
 
