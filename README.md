@@ -55,10 +55,6 @@
 
 ---
 
-## 社区
-
-向 Spring AI、OpenTelemetry Java 提交的 issue 与讨论。
-
 ---
 
 _文章与项目链接会随进度更新。_
